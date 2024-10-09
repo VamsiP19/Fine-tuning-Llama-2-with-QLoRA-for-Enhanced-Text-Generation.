@@ -27,3 +27,6 @@ The following `bitsandbytes` quantization config was used during training:
 
 
 - PEFT 0.4.0
+
+
+https://github.com/user-attachments/assets/0140ee12-371f-4e5f-9556-e4fed4829b79
